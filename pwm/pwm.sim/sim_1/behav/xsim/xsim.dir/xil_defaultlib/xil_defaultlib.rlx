@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/joeyespino/Documents/FPGA/projects/pwm/pwm.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/joeyespino/Documents/FPGA/projects/pwm/pwm.srcs/sim_1/new/testbench.v,1580179566,verilog,,,,testbench,,,,,,,,
+C:/Users/joeyespino/Documents/FPGA/projects/pwm/pwm.srcs/sources_1/new/pwm_module.v,1580179716,verilog,,C:/Users/joeyespino/Documents/FPGA/projects/pwm/pwm.srcs/sources_1/new/top.v,,pwm,,,,,,,,
+C:/Users/joeyespino/Documents/FPGA/projects/pwm/pwm.srcs/sources_1/new/top.v,1580179115,verilog,,C:/Users/joeyespino/Documents/FPGA/projects/pwm/pwm.srcs/sim_1/new/testbench.v,,top,,,,,,,,
